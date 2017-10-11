@@ -1,0 +1,85 @@
+.jumbotron{
+	margin-bottom:20px; 
+	color:white; 
+	background-color: green;
+}
+
+h2{
+	font-size:50px; 
+	text-align:center;
+}
+
+#prompt{	
+	color:darkgreen; 
+	text-align:center;
+}
+	
+#searchLine{
+	margin:auto;
+	text-align:center;
+	width: 600px;
+}
+
+input[type="text"]{
+	height: 40px;
+	width: 140px;
+	font-size: 20px;
+	text-align: leftwards;
+	margin-left: 10px;
+}
+
+#submitWeather{
+	margin:auto;
+	height: 40px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#infoContainer{
+	    margin: auto;
+		width: 680px;
+		float: center;
+		margin-bottom:20px;
+		margin-top:20px;
+		border:solid;
+}
+
+#seven{
+		width: 677px;
+		float: center;
+		text-align: center;
+		border: 2px solid black;
+}
+
+#chartcontainer{
+        margin: auto;
+}
+
+
+#piechart3d{
+    float: left;
+    width: 50%;
+    height: 340px;
+	border: solid;
+}
+#curve_chart{
+    float: right;
+    width: 50%;
+    height: 340px;
+	border: solid;
+}​
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+footer {
+	margin-top:20px;
+    padding: 1em;
+    color: white;
+    background-color: green;
+    clear: left;
+    text-align: center;
+	width:max-width;
+}
