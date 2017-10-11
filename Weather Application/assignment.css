@@ -36,19 +36,19 @@ input[type="text"]{
 }
 
 #infoContainer{
-	    margin: auto;
-		width: 680px;
-		float: center;
-		margin-bottom:20px;
-		margin-top:20px;
-		border:solid;
+	margin: auto;
+	width: 680px;
+	float: center;
+	margin-bottom:20px;
+	margin-top:20px;
+	border:solid;
 }
 
 #seven{
-		width: 677px;
-		float: center;
-		text-align: center;
-		border: 2px solid black;
+	width: 677px;
+	float: center;
+	text-align: center;
+	border: 2px solid black;
 }
 
 #chartcontainer{
@@ -57,29 +57,29 @@ input[type="text"]{
 
 
 #piechart3d{
-    float: left;
-    width: 50%;
-    height: 340px;
+    	float: left;
+    	width: 50%;
+    	height: 340px;
 	border: solid;
 }
 #curve_chart{
-    float: right;
-    width: 50%;
-    height: 340px;
+    	float: right;
+    	width: 50%;
+    	height: 340px;
 	border: solid;
-}​
+}
 
 table, th, td {
-    border: 1px solid black;
+    	border: 1px solid black;
 }
 
 
 footer {
 	margin-top:20px;
-    padding: 1em;
-    color: white;
-    background-color: green;
-    clear: left;
-    text-align: center;
+    	padding: 1em;
+    	color: white;
+    	background-color: green;
+    	clear: left;
+    	text-align: center;
 	width:max-width;
 }
